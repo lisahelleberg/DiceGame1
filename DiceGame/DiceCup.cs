@@ -67,7 +67,7 @@ namespace DiceGame
 
             checker = terningvalue > value;
 
-            return checker;
+            return checker; 
         }
     }
 }
